@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\MainApi\\MainApi.csproj": {}
+    "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\MainApi\\MainApi.csproj": {}
   },
   "projects": {
-    "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\MainApi\\MainApi.csproj": {
+    "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\MainApi\\MainApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\MainApi\\MainApi.csproj",
+        "projectUniqueName": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\MainApi\\MainApi.csproj",
         "projectName": "MainApi",
-        "projectPath": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\MainApi\\MainApi.csproj",
+        "projectPath": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\MainApi\\MainApi.csproj",
         "packagesPath": "C:\\Users\\khalid.javaid\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\MainApi\\obj\\",
+        "outputPath": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\MainApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

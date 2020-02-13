@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\CrudOperation\\CrudOperation.csproj": {}
+    "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\CrudOperation\\CrudOperation.csproj": {}
   },
   "projects": {
-    "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\CrudOperation\\CrudOperation.csproj": {
+    "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\CrudOperation\\CrudOperation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
+        "projectUniqueName": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
         "projectName": "CrudOperation",
-        "projectPath": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
+        "projectPath": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\CrudOperation\\CrudOperation.csproj",
         "packagesPath": "C:\\Users\\khalid.javaid\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice Project\\Asp.netCorePractice\\CrudOperation\\CrudOperation\\obj\\",
+        "outputPath": "D:\\GitFundamentalsPractice\\AccadmeySystem\\CrudOperation\\CrudOperation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
